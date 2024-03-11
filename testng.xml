@@ -7,10 +7,10 @@
 	<parameter name="browser" value="chrome"></parameter>
 	<test thread-count="5" name="Test">
 		<classes>
-			<class name="TestCases.LoginTest_001" /> 
+			 <class name="TestCases.LoginTest_001" /> 
 			<!--	<class name="TestCases.TC_Register_002" />-->
 			<!--	<class name="TestCases.TC_SearchHotel_003" /> -->
-			<!--<class name="TestCases.TC_DataDrivenTest_001" /> -->
+			<!--<class name="TestCases.TC_DataDrivenTest_001" />  --> 
 			<!-- <class name="TestCases.TC_SearchHotel_003" /> -->
 		</classes>
 	</test> <!-- Test -->

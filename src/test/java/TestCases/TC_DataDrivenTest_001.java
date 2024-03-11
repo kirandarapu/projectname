@@ -22,6 +22,7 @@ public class TC_DataDrivenTest_001 extends BaseClass {
 		
 		lp.ClickLoginbtn();
 		
+		//verification process
 		String exp_result="Adactin.com - Search Hotel11";
 		String act_result=driver.getTitle();
 		

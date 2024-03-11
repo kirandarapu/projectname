@@ -7,18 +7,19 @@ import org.testng.annotations.Test;
 import PageObjects.LoginPage;
 import junit.framework.Assert;
 
-public class LoginTest_001 extends BaseClass {
+public class LoginTest_001 extends BaseClass {   //child class
 
 	@Test
-	public void logintest() throws InterruptedException, IOException {
+	public void logintest() throws InterruptedException, IOException  {
+		
 		
 		LoginPage lp=new LoginPage(driver);
 		lp.setUsername(username);
 		log.info("username is enetered");
-		Thread.sleep(2000);
+		Thread.sleep(3000);//intervals
 		lp.setPassword(password);
 		log.info("password is enetered");
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		lp.ClickLoginbtn();
 		log.info("user is succefully logging inito the account");
 	
@@ -38,6 +39,9 @@ public class LoginTest_001 extends BaseClass {
 		
 		log.info("testcase is failed");
 	}
+	
+    
+	
 	
 	
 	}

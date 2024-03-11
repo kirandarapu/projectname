@@ -61,6 +61,8 @@ public class TC_SearchHotel_003 extends BaseClass {
 		   captureScreen(driver,"searchhotelTest");
 		   Assert.assertTrue(false);
 		   log.info("testcase execution fail");
+		   
+		   
 	   }
 	}
 

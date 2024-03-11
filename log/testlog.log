@@ -201,3 +201,82 @@
 2023-12-13 16:07:04,271 - TestCases.LoginTest_001 -INFO - password is enetered
 2023-12-13 16:07:08,718 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
 2023-12-13 16:07:08,746 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-19 17:09:13,097 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-19 17:09:15,311 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-19 17:09:19,140 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-19 17:09:19,162 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-19 17:11:28,398 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-19 17:11:30,561 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-19 17:11:34,868 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-19 17:11:34,887 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-19 17:16:08,158 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-19 17:16:10,833 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-19 17:16:16,721 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-19 17:16:16,749 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-19 17:33:55,962 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-19 17:33:59,421 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-19 17:34:03,353 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-19 17:34:03,381 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-19 17:40:40,595 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-19 17:40:43,129 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-19 17:40:46,992 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-19 17:40:47,007 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-19 17:46:57,925 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-19 17:47:00,114 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-19 17:47:03,999 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-19 17:47:04,015 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-19 17:51:16,458 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-19 17:51:18,593 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-19 17:51:22,585 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-19 17:51:22,602 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-20 16:50:49,804 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-20 16:50:51,995 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-20 16:50:56,344 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-20 16:50:56,377 - TestCases.LoginTest_001 -INFO - testcase is pass
+2023-12-20 16:54:22,346 - TestCases.LoginTest_001 -INFO - username is enetered
+2023-12-20 16:54:24,782 - TestCases.LoginTest_001 -INFO - password is enetered
+2023-12-20 16:54:28,774 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2023-12-20 16:54:28,800 - TestCases.LoginTest_001 -INFO - testcase is pass
+2024-01-18 11:53:05,660 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-18 11:53:06,910 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-18 11:53:09,181 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-23 10:58:38,551 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-23 10:58:39,834 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-23 10:58:41,651 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-23 11:34:07,698 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-23 11:34:09,437 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-23 11:34:11,572 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-25 17:40:36,467 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-25 17:40:38,551 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-25 17:40:39,633 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-31 17:40:47,323 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-31 17:40:48,557 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-01-31 17:40:49,905 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-01 17:40:45,053 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-01 17:40:47,238 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-01 17:40:48,879 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-12 17:41:56,380 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-12 17:41:58,036 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-12 17:41:59,469 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-14 11:56:20,645 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-14 11:56:23,125 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-14 11:56:25,433 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-14 11:57:16,162 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-14 11:57:17,835 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-14 11:57:19,494 - TestCases.TC_DataDrivenTest_001 -INFO - screenshot is taken
+2024-02-14 14:46:33,893 - TestCases.LoginTest_001 -INFO - username is enetered
+2024-02-14 14:46:36,047 - TestCases.LoginTest_001 -INFO - password is enetered
+2024-02-14 14:46:39,880 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2024-02-14 14:46:39,902 - TestCases.LoginTest_001 -INFO - testcase is pass
+2024-02-14 14:50:32,210 - TestCases.LoginTest_001 -INFO - username is enetered
+2024-02-14 14:50:34,369 - TestCases.LoginTest_001 -INFO - password is enetered
+2024-02-14 14:50:38,337 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2024-02-14 14:50:38,379 - TestCases.LoginTest_001 -INFO - testcase is pass
+2024-03-07 16:27:20,956 - TestCases.LoginTest_001 -INFO - username is enetered
+2024-03-07 16:27:24,098 - TestCases.LoginTest_001 -INFO - password is enetered
+2024-03-07 16:27:29,323 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2024-03-07 16:27:29,344 - TestCases.LoginTest_001 -INFO - testcase is pass
+2024-03-11 14:54:11,948 - TestCases.LoginTest_001 -INFO - username is enetered
+2024-03-11 14:54:15,094 - TestCases.LoginTest_001 -INFO - password is enetered
+2024-03-11 14:54:19,743 - TestCases.LoginTest_001 -INFO - user is succefully logging inito the account
+2024-03-11 14:54:19,754 - TestCases.LoginTest_001 -INFO - testcase is pass

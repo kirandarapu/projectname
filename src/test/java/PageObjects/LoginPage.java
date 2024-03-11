@@ -7,13 +7,13 @@ import org.openqa.selenium.support.PageFactory;
 
 public class LoginPage {
 	
-	public static WebDriver rdriver;
-	public LoginPage(WebDriver ldriver) {
+	public static WebDriver driver;
+	public LoginPage(WebDriver driver) {
 		
-		rdriver=ldriver;
-		PageFactory.initElements(ldriver, this);
+		this.driver=driver;
+		PageFactory.initElements(driver, this);
 	}
-	
+//	
 	//locate the all webElements
 	
 	@FindBy(id="username")
@@ -34,5 +34,7 @@ public class LoginPage {
 	public void ClickLoginbtn() {
 		btnLogin.click();
 	}
+	
+	
 
 }

@@ -19,7 +19,7 @@ import Utilities.ReadConfig;
 
 //common functionality for every testcase
 //open application,close application,takes screenshots,log files generation
-public class BaseClass {
+public class BaseClass {  //parent class
 	
 	public static WebDriver driver;
 	public static Logger log;
@@ -44,7 +44,7 @@ public class BaseClass {
 		
 		if(br.equals("chrome")) {
 		
-		driver=new ChromeDriver();
+		driver=new ChromeDriver();//open chrome driver
 		}
 		else if(br.equals("edge")) {
 			driver=new EdgeDriver();
@@ -60,12 +60,15 @@ public class BaseClass {
 		PropertyConfigurator.configure("./log4j.properties");
 		driver.get(url);
 		
+		
+		
 	}
 	
 	@AfterClass
 	public void closeApplication() {
 		driver.close();
 	}
+	
 	
 	public void captureScreen(WebDriver driver,String name) throws IOException {
 		
@@ -75,6 +78,11 @@ public class BaseClass {
 		File target=new File("./Screenshots/"+name+".png");
 		FileUtils.copyFile(src, target);
 		log.info("screenshot is taken");
+		
+		
+		
+		
+		
 	}
 	
 
